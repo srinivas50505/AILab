@@ -2,7 +2,7 @@
 This Repository contains the data of Artificial Intelligence Lab JNTUK M.TECH 1-1
 
 
-**1. Implementation of DFS for water jug problem using PYTHON\n
+**1. Implementation of DFS for water jug problem using PYTHON
 2. Implementation of BFS for tic-tac-toe problem using PYTHON
 3. Implementation of TSP using heuristic approach using PYTHON
 4. Implementation of Simulated Annealing Algorithm using PYTHON
