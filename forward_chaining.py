@@ -1,3 +1,15 @@
+'''
+***INFERENCE RULES***
+mammal(A) ==> vertebrate(A).
+vertebrate(A) ==> animal(A).
+vertebrate(A),flying(A) ==> bird(A).
+vertebrate("duck").
+flying("duck").
+mammal("cat").
+'''
+
+
+
 global facts
 global is_changed
 
